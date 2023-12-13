@@ -1,0 +1,133 @@
+{
+    "first_name": "Vijay",
+    "last_name": "Pagare",
+    "phone": "(+91)889XXXXX2 8",
+    "email": "xyz@gmail.com",
+    "address": {
+        "city": "Miraroad",
+        "state": "MH",
+        "country": "IND"
+    },
+    "summary": "A frontend-leaning software engineer with 4.5+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.",
+    "work_history": [
+        {
+            "company": "PROPELLOR.AI",
+            "position": "Software Engineer - Frontend",
+            "location": "Pune - Remote",
+            "from_date": "August 2021",
+            "to_date": "Present",
+            "highlights": [
+                "Architected, built and maintained business critical modules for a data unification and visualization platform",
+                "Stabilised the app by reducing the bugs by 90% within a quarter of joining and thereon maintained a <5% bug-to-new-feature ratio",
+                "Enhanced the User Experience and Interface which led to a doubling of the average time spent on the app and improved demo-to-trial ratio",
+                "Revamped the architecture of the core charting library and dashboard module to improve the first contentful paint time from 5s to 1.5s",
+                "Single-handedly leading the frontend development activities since Jan 2023. Active contributions in project planning and product discussions. Accustomed to working alongside the CEO, CTO along with fellow engineers and designers."
+            ]
+        },
+        {
+            "company": "ERAGAPVENTURES",
+            "position": "Software Engineer-Founder",
+            "location": "Mumbai-Remote",
+            "from_date": "Sept 2020",
+            "to_date": "August 2021",
+            "highlights": [
+                "Indie-hacked a portfolio of products and services as a solopreneur. Mostly worked on web-based saas tools, media initiatives, and client projects. Made multiple pivots: ecom, crypto, and content."
+            ]
+        },
+        {
+            "company": "FLEXILOANS",
+            "position": "Software Engineer-Frontend",
+            "location": "Mumbai",
+            "from_date": "June 2019",
+            "to_date": "Sept 2020",
+            "highlights": [
+                "Built a dynamic client onboarding and lead generation platform (JSON-based) that tailored itself to various user journeys depending upon the source of the lead and was integrated with Flexiloans' business partners like Gpay, Paypal, and Xiaomi. It was used by 6lac SMEs per month.",
+                "Awarded Employee of the Month twice."
+            ]
+        },
+        {
+            "company": "LUMINAIRE ACADEMY",
+            "position": "Lecturer-Founder",
+            "location": "Mumbai",
+            "from_date": "2015",
+            "to_date": "2019",
+            "highlights": [
+                "Bootstrapped an online coaching institute during my college days ARR:15lac.",
+                "Roles: Teaching (physics), guest lecturing at other partner institutes (5+), mentoring",
+                "Prime decision-making, marketing and revenue generation."
+            ]
+        }
+    ],
+    "education_history": [
+        {
+            "degree": "Bachelor of Engineering",
+            "field_of_study": "Computers",
+            "school": "Rajiv Gandhi Institute of Technology, Mumbai University",
+            "grade": "Pointer: 8.6/10",
+            "from_date": "May 2019",
+            "to_date": "Present"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Javascript"
+        },
+        {
+            "skill": "Typescript"
+        },
+        {
+            "skill": "React"
+        },
+        {
+            "skill": "NextJS"
+        },
+        {
+            "skill": "Angular2+"
+        },
+        {
+            "skill": "TailwindCSS"
+        },
+        {
+            "skill": "HTML"
+        },
+        {
+            "skill": "CSS/SCSS"
+        },
+        {
+            "skill": "Git"
+        },
+        {
+            "skill": "REST-APIs using Nodejs"
+        },
+        {
+            "skill": "Linux"
+        },
+        {
+            "skill": "Material&Ant Design"
+        },
+        {
+            "skill": "ES6"
+        },
+        {
+            "skill": "Redux"
+        },
+        {
+            "skill": "RxJS"
+        },
+        {
+            "skill": "Apache Echarts"
+        },
+        {
+            "skill": "D3.js"
+        },
+        {
+            "skill": "Three.js"
+        },
+        {
+            "skill": "Sockets"
+        },
+        {
+            "skill": "PWA"
+        }
+    ]
+}
